@@ -2,7 +2,7 @@ class Swyctl < Formula
   desc "A command line tool to retrieve local weather"
   homepage "https://github.com/swiftycloud/swyctl"
   url "https://raw.githubusercontent.com/swiftycloud/swyctl/master/archive/swyctl-1.0.2.tar.gz"
-  sha256 "98633a6653882b46cb2c14486ef9935b3007dd146becf54ddd32283a60435721"
+  sha256 "54c5ffda3874e87b3054bfff325c58bff9d4c582fd241fc592cae4c6c28d48e4"
   version "1.0.2"
 
   #depends_on "curl"
